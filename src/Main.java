@@ -21,11 +21,11 @@ public class Main {
         var paperSubtraction = 7639;
 
         var resultDogSubtraction = resultDogAddition - dogSubtraction;
-        System.out.println ("dog - 3.5 = " +resultDogAddition);
+        System.out.println ("dog - 3.5 = " +resultDogSubtraction);
         var resultCatSubtraction = resultCatAddition - catSubtraction;
-        System.out.println ("cat - 1.6 = " +resultCatAddition);
+        System.out.println ("cat - 1.6 = " +resultCatSubtraction);
         var resultPaperSubtraction = resultPaperAddition - paperSubtraction;
-        System.out.println ("paper - 7639 = " +resultPaperAddition);
+        System.out.println ("paper - 7639 = " +resultPaperSubtraction);
 
         var friends = 19;
         System.out.println ("friends initially = " +friends);
