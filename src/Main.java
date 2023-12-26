@@ -70,7 +70,7 @@ public class Main {
         var otherWorkers = workers + 94;
         System.out.println ("Всего работников в компании + 94 человека = " +otherWorkers+ " человек(а)");
         var timeAllWorkers = otherWorkers * timeForOneWorker;
-        System.out.println ("Если в компании работает " +otherWorkers+ " человек, то всего " +timeAllWorkers+ " часа(ов) работы может быть поделено между сотрудниками");
+        System.out.println ("Если в компании работает " +otherWorkers+ " человек, то всего " +timeAllWorkers+ " часа(ов) работы может быть поделено между сотрудниками!");
 
     }
 }
